@@ -1,2 +1,2 @@
-# Statistical_Tests_Using_R
+# Exploring_Udemy_Courses - Statistical_Tests_Using_R
 Professional adults or students who take online classes might be interested in different types of courses available on Udemy, their price range, course components and they might ask what classes have higher number of subscribers, and reviews. Through this data science project l explored “”Udemy Courses” dataset from Kaggle and performed statistical analysis using R. Some of the methodologies I used to look at the relationships among the variables are covariance, correlation, partial correlation and coefficient. I also used modeling techniques such as linear regression, multiple regression, logistic regression, and KNN to perform prediction and other statistical analysis. 
